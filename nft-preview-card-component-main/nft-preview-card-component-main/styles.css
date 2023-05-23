@@ -119,6 +119,6 @@ li {
 @media (min-width: 429px) {
   .container {
     width: 22%;
-    margin: 6em auto;
+    margin: 10em auto;
   }
 }
